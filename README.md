@@ -1,1 +1,1 @@
-# Real-time-stock-market-trading-dashboard
+# Real time stock market trading Dashboard
