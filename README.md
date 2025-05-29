@@ -26,7 +26,7 @@ This project delivers an interactive dashboard for real-time stock market analys
 ## 🛠️ Installation
 Clone the repository
 
-git clone https://github.com/rutvivadi7/real-time-stock-dashboard.git
+git clone https://github.com/rutvivadi7/Real-time-stock-market-trading-dashboard.git
 Navigate to the project directory
 
 cd real-time-stock-dashboard
