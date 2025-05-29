@@ -22,3 +22,30 @@ This project delivers an interactive dashboard for real-time stock market analys
 - **Streamlit**
 - **Power BI**
 - **Yahoo Finance API (yfinance)**
+  
+## 🛠️ Installation
+Clone the repository
+
+git clone https://github.com/rutvivadi7/real-time-stock-dashboard.git
+Navigate to the project directory
+
+cd real-time-stock-dashboard
+Install dependencies
+
+pip install -r requirements.txt
+Run the Streamlit app
+
+streamlit run app.py
+
+## 📚 Learnings
+
+This project highlights skills in:
+Financial data analysis and visualization
+Secure and scalable Streamlit application development
+API integration and data processing
+Dashboard design using Power BI
+
+## 🙌 Acknowledgments
+
+Yahoo Finance for market data API
+Streamlit and Power BI communities for tools and inspiration
